@@ -1,0 +1,32 @@
+span[data-td-item="description"]{
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+tbody .td-item{
+    padding: 5px; 
+    vertical-align: middle;
+}
+.update-product{
+    .ant-modal-body{
+        padding: 20px 0 0 0 ;
+    }
+}
+
+.btn-submit{
+    padding: 20px 0 0 0 ;
+}
+.dashboard-content-title{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.btn_add_product{
+    font-size: 18px;
+    padding: 10px ;
+}
+
